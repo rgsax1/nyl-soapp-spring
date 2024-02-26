@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>flexnyl.com.br</groupId>
-    <artifactId>backend-soapp</artifactId>
+    <artifactId>nyl-soapp-spring</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>backend-soapp</name>
+    <name>nyl-soapp-spring</name>
     <description>Flexnyl Server Order App</description>
     <properties>
         <java.version>21</java.version>
